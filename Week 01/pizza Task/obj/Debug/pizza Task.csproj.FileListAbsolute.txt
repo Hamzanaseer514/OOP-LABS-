@@ -1,0 +1,7 @@
+D:\2nd semester OOP\OOP labs\Week 01\pizza Task\bin\Debug\pizza Task.exe.config
+D:\2nd semester OOP\OOP labs\Week 01\pizza Task\bin\Debug\pizza Task.exe
+D:\2nd semester OOP\OOP labs\Week 01\pizza Task\bin\Debug\pizza Task.pdb
+D:\2nd semester OOP\OOP labs\Week 01\pizza Task\obj\Debug\pizza Task.csproj.AssemblyReference.cache
+D:\2nd semester OOP\OOP labs\Week 01\pizza Task\obj\Debug\pizza Task.csproj.CoreCompileInputs.cache
+D:\2nd semester OOP\OOP labs\Week 01\pizza Task\obj\Debug\pizza Task.exe
+D:\2nd semester OOP\OOP labs\Week 01\pizza Task\obj\Debug\pizza Task.pdb

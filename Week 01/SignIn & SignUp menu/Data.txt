@@ -1,0 +1,5 @@
+,,
+mana,1123,Employe
+alyan,cake,Customer
+butt,234,Customer
+hamza,123,Customer
