@@ -1,0 +1,3 @@
+hamza,123,Employe
+mana,chota mana,Customer
+abdulrehman,123,Employe
