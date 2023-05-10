@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Task(a,b)\bin\Debug\Task(a,b).exe.config
+C:\Users\HP\source\repos\Task(a,b)\bin\Debug\Task(a,b).exe
+C:\Users\HP\source\repos\Task(a,b)\bin\Debug\Task(a,b).pdb
+C:\Users\HP\source\repos\Task(a,b)\obj\Debug\Task(a,b).csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Task(a,b)\obj\Debug\Task(a,b).csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Task(a,b)\obj\Debug\Task(a,b).exe
+C:\Users\HP\source\repos\Task(a,b)\obj\Debug\Task(a,b).pdb
