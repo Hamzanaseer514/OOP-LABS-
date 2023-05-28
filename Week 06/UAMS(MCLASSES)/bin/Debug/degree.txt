@@ -1,0 +1,3 @@
+cs,4,12,oop;mvc;statics
+mechanical,4,10,aphy;kela
+crp,5,2,autocat;designing

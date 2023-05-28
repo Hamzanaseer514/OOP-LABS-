@@ -1,0 +1,7 @@
+D:\2nd semester OOP\OOP labs\Week 06\Shop\bin\Debug\Shop.exe.config
+D:\2nd semester OOP\OOP labs\Week 06\Shop\bin\Debug\Shop.exe
+D:\2nd semester OOP\OOP labs\Week 06\Shop\bin\Debug\Shop.pdb
+D:\2nd semester OOP\OOP labs\Week 06\Shop\obj\Debug\Shop.csproj.AssemblyReference.cache
+D:\2nd semester OOP\OOP labs\Week 06\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+D:\2nd semester OOP\OOP labs\Week 06\Shop\obj\Debug\Shop.exe
+D:\2nd semester OOP\OOP labs\Week 06\Shop\obj\Debug\Shop.pdb

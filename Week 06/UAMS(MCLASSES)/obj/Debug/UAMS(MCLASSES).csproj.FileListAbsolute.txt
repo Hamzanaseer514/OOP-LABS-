@@ -1,0 +1,7 @@
+D:\2nd semester OOP\OOP labs\Week 06\UAMS(MCLASSES)\obj\Debug\UAMS(MCLASSES).csproj.AssemblyReference.cache
+D:\2nd semester OOP\OOP labs\Week 06\UAMS(MCLASSES)\obj\Debug\UAMS(MCLASSES).csproj.CoreCompileInputs.cache
+D:\2nd semester OOP\OOP labs\Week 06\UAMS(MCLASSES)\bin\Debug\UAMS(MCLASSES).exe.config
+D:\2nd semester OOP\OOP labs\Week 06\UAMS(MCLASSES)\bin\Debug\UAMS(MCLASSES).exe
+D:\2nd semester OOP\OOP labs\Week 06\UAMS(MCLASSES)\bin\Debug\UAMS(MCLASSES).pdb
+D:\2nd semester OOP\OOP labs\Week 06\UAMS(MCLASSES)\obj\Debug\UAMS(MCLASSES).exe
+D:\2nd semester OOP\OOP labs\Week 06\UAMS(MCLASSES)\obj\Debug\UAMS(MCLASSES).pdb
